@@ -1,3 +1,4 @@
+
 <script>
 	import ActionBar from './ActionBar/index.svelte';
 	import Keyboard from './Keyboard.svelte';
